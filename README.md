@@ -177,3 +177,11 @@ Time-of-day revenue analysis
 Figures saved and referenced in notebook.
 
 
+
+Tools & Technologies
+Area: 	Tools
+ETL / Data Processing: DuckDB, csvkit, Python
+Modeling: 	Dimensional modeling (Star schema)
+Visualization: Matplotlib, Seaborn
+Data Access: KaggleHub
+
